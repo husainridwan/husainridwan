@@ -16,7 +16,7 @@
 
 ## 🧭 About Me
 
-I'm a **Risk & Data Analyst** at a fast-growing Nigerian fintech, where I turn loan and transaction data into decisions that move real numbers, like helping lift repayment rates from **58% → 67%** through segmentation and root-cause analysis.
+I'm a **Risk & Data Analyst** at a fast-growing Nigerian fintech, where I turn loan and transaction data into decisions that move real numbers, like helping lift early repayment rates from **54% → 66%** through segmentation and root-cause analysis.
 
 I studied **Electrical & Electronics Engineering** (Second Class Upper Honours), which is probably why I can't look at a messy dataset without wanting to model it, break it down, and rebuild it into something that makes sense.
 
